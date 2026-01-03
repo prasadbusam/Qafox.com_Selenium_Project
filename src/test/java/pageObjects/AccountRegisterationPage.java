@@ -47,7 +47,7 @@ public class AccountRegisterationPage extends BasePage {
 	public void continuebtn() {
 		btncontinue.click();
 	}
-	public String getcnfmsg() {
+	public String getacc() {
 		return(msgconfirmation.getText());
 	}
 }

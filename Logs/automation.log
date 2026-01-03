@@ -10,3 +10,20 @@
 16:56:11.316 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
 16:56:11.322 [main] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
 16:56:12.974 [main] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+18:10:51.577 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:10:51.846 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:10:52.243 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:10:52.249 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:10:52.645 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:10:53.826 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:10:53.892 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+18:56:09.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\master.xml
+
+18:56:14.204 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:56:14.433 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:56:14.763 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:56:14.772 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:56:15.111 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:56:16.409 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:56:16.483 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******

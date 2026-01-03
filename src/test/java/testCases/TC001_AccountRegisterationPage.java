@@ -37,8 +37,9 @@ public class TC001_AccountRegisterationPage extends Baseclass {
 		ac.checkpolicy();
 		ac.continuebtn();
 		logger.info("Validating expected message");
-		String cnfmsg=ac.getcnfmsg();
+		String cnfmsg=ac.getacc();
 		Assert.assertEquals(cnfmsg, "Your Account Has Been Created!");
+		logger.info("*******Finished TC001_AccountRegisterationPage*******");
 		
 	}
 	
