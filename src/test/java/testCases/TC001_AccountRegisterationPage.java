@@ -16,7 +16,7 @@ import testBase.Baseclass;
 
 public class TC001_AccountRegisterationPage extends Baseclass {
 	
-	@Test
+	@Test(groups = {"Regression","Master"})
 	public void Verify_Account_Registeration_Page() {
 		logger.info("*******Starting TC001_AccountRegisterationPage*******");
 		HomePage hp=new HomePage(driver);

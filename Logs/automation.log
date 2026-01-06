@@ -1,29 +1,50 @@
-13:47:01.294 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
-13:47:03.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
-13:47:04.356 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
-13:47:04.516 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
-13:47:05.201 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
-13:47:05.203 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
-13:47:06.666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
-16:56:10.570 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
-16:56:10.700 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
-16:56:11.316 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
-16:56:11.322 [main] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
-16:56:12.974 [main] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
-18:10:51.577 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
-18:10:51.846 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
-18:10:52.243 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
-18:10:52.249 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
-18:10:52.645 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
-18:10:53.826 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
-18:10:53.892 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
-18:56:09.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\master.xml
+18:11:42.302 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+18:11:42.506 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+18:11:42.855 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+18:11:42.858 [main] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+18:11:44.354 [main] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+18:11:44.439 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Finished TC001_AccountRegisterationPage*******
+18:11:46.601 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:11:46.704 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:11:46.999 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:11:47.001 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:11:47.259 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:11:47.332 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:11:48.400 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+18:14:18.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\Group1.xml
 
-18:56:14.204 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
-18:56:14.433 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
-18:56:14.763 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
-18:56:14.772 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
-18:56:15.111 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
-18:56:16.409 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
-18:56:16.483 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+18:14:21.263 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+18:14:21.392 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+18:14:21.764 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+18:14:21.792 [main] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+18:14:23.220 [main] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+18:14:23.253 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Finished TC001_AccountRegisterationPage*******
+18:14:25.301 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:14:25.409 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:14:25.710 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:14:25.712 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:14:25.989 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:14:26.049 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:14:27.116 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+18:14:30.739 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+18:14:30.821 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+18:14:31.080 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+18:14:31.081 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+18:14:31.286 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+18:14:31.402 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+18:14:32.027 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+18:14:32.239 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+18:14:32.240 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+18:14:32.379 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+18:14:32.452 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+18:14:33.073 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+18:14:33.277 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+18:14:33.278 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+18:14:33.422 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+18:14:33.495 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+18:14:34.122 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+18:14:34.332 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+18:14:34.332 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+18:14:34.489 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+18:14:35.593 [main] INFO  testCases.TC003_Valid_Login_DDT - *******Finished TC003_Valid_Login_DDT*******

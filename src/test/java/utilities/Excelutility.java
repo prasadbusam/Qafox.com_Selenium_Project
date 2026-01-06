@@ -10,17 +10,18 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class Excelutility {
-	public FileInputStream fi;
-	public FileOutputStream fo;
-	public XSSFWorkbook workbook;
-	public XSSFSheet sheet;
-	public XSSFRow row;
-	public XSSFCell cell; 
+	public  FileInputStream fi;
+	public  FileOutputStream fo;
+	public  XSSFWorkbook workbook;
+	public  XSSFSheet sheet;
+	public  XSSFRow row;
+	public  XSSFCell cell; 
 	String path;
-	Excelutility(String path){
+	
+	public Excelutility(String path){
 		this.path=path;
 	}
-	public int getRowCount(String xlsheet) throws IOException
+	public  int getRowCount( String xlsheet) throws IOException
 	{
 		fi=new FileInputStream(path);
 		workbook=new XSSFWorkbook(fi);
@@ -30,7 +31,7 @@ public class Excelutility {
 		fi.close();
 		return rowcount;
 	}
-	public int getCellCount(String xlsheet,int rownum) throws IOException
+	public  int getCellCount(String xlsheet,int rownum) throws IOException
 	{
 		fi=new FileInputStream(path);
 		workbook=new XSSFWorkbook(fi);

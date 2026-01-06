@@ -20,7 +20,7 @@ public class Baseclass {
 	public WebDriver driver;
 	public Logger logger;
 	public Properties p;
-	@BeforeClass  
+	@BeforeClass (groups = {"Sanity","Regression","Master","Datadriven"})
 	@Parameters({"os","browser"})
 	public void Setup(String os, String br) throws IOException {
 		logger=LogManager.getLogger(this.getClass());
@@ -53,7 +53,7 @@ public class Baseclass {
 		return generatedstring+"@"+generatedNumber;
 
 	}
-	@AfterClass
+	@AfterClass(groups = {"Sanity","Regression","Master","Datadriven"})
 	public void tearDown() {
 		driver.quit();
 	}

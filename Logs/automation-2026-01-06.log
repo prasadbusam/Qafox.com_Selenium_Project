@@ -1,0 +1,62 @@
+13:47:01.294 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+13:47:03.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+13:47:04.356 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+13:47:04.516 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+13:47:05.201 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+13:47:05.203 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+13:47:06.666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+16:56:10.570 [main] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+16:56:10.700 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+16:56:11.316 [main] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+16:56:11.322 [main] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+16:56:12.974 [main] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+18:10:51.577 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:10:51.846 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:10:52.243 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:10:52.249 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:10:52.645 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:10:53.826 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:10:53.892 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+18:56:09.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\master.xml
+
+18:56:14.204 [main] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+18:56:14.433 [main] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+18:56:14.763 [main] INFO  testCases.TC002_LoginPage - Clicked on Login link
+18:56:14.772 [main] INFO  testCases.TC002_LoginPage - Providing Existing User details
+18:56:15.111 [main] INFO  testCases.TC002_LoginPage - Clicked on Login button
+18:56:16.409 [main] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+18:56:16.483 [main] INFO  testCases.TC002_LoginPage - *******Finished TC002_LoginPagePage*******
+17:33:01.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\master.xml
+
+17:33:10.357 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:33:10.650 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:33:10.955 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:33:10.959 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:33:11.359 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:33:11.543 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:33:12.280 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:33:12.672 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:33:12.675 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:33:12.969 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:33:13.134 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:33:14.406 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:33:14.736 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:33:14.741 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:33:15.078 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:33:15.274 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:33:16.320 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:33:16.624 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:33:16.627 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:33:17.078 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:33:18.483 [main] INFO  testCases.TC003_Valid_Login_DDT - *******Finished TC003_Valid_Login_DDT*******
+18:02:41.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\Group1.xml
+
+18:04:43.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\Group1.xml
+
+18:11:38.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\Group1.xml
+

@@ -8,7 +8,7 @@ import pageObjects.Loginpage;
 import testBase.Baseclass;
 
 public class TC002_LoginPage extends Baseclass{
-	@Test
+	@Test(groups = {"Sanity","Master"})
 	public void Verify_Login_page() {
 		logger.info("*******Starting TC002_LoginPagePage*******");
 		HomePage hp=new HomePage(driver);
@@ -25,9 +25,8 @@ public class TC002_LoginPage extends Baseclass{
 		logger.info("Validating expected My Account header");
 		String viewmyacc=lp.getmyaccount();
 		Assert.assertEquals(viewmyacc, "My Account","My account Displayed");
+		lp.click_logout_btn();
 		logger.info("*******Finished TC002_LoginPagePage*******");
 	}
-	
-	
 	
 }

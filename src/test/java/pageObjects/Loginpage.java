@@ -15,6 +15,7 @@ public class Loginpage extends BasePage{
 	@FindBy(xpath = "//*[@name='password']") WebElement txtpassword;
 	@FindBy(xpath = "//*[@value='Login']") WebElement loginbtn;
 	@FindBy(xpath = "//*[@id='content'] //*[text()='My Account']") WebElement myacc;
+	@FindBy(xpath = "(//*[text()='Logout'])[2]") WebElement logoutbtn;
 	
 	public void setemail(String email) {
 		txtmail.sendKeys(email);
@@ -27,5 +28,8 @@ public class Loginpage extends BasePage{
 	}
 	public String getmyaccount() {
 		return(myacc.getText());
+	}
+	public void click_logout_btn() {
+		logoutbtn.click();
 	}
 }
