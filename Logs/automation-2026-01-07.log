@@ -1,0 +1,51 @@
+17:04:32.858 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:04:33.771 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:04:34.061 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:04:34.483 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:04:34.487 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:04:34.934 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:04:36.195 [main] INFO  testCases.TC003_Valid_Login_DDT - ******* Starting TC003_Valid_Login_DDT *******
+17:04:36.561 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Myaccount link
+17:04:37.125 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login link
+17:04:37.126 [main] INFO  testCases.TC003_Valid_Login_DDT - Providing Existing User details
+17:04:37.843 [main] INFO  testCases.TC003_Valid_Login_DDT - Clicked on Login button
+17:04:39.500 [main] INFO  testCases.TC003_Valid_Login_DDT - *******Finished TC003_Valid_Login_DDT*******
+17:06:58.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\NeelimaBusam\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+17:07:12.524 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+17:07:12.524 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+17:07:12.682 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - *******Starting TC001_AccountRegisterationPage*******
+17:07:14.486 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+17:07:14.517 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+17:07:14.536 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Myaccount link
+17:07:16.812 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+17:07:16.830 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+17:07:16.866 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+17:07:16.946 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+17:07:17.080 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Clicked on Register link
+17:07:17.082 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Providing user details
+17:07:23.994 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+17:07:24.222 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+17:07:24.369 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationPage - *******Finished TC001_AccountRegisterationPage*******
+17:07:24.405 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - Validating expected message
+17:07:24.642 [TestNG-tests-3] INFO  testCases.TC001_AccountRegisterationPage - *******Finished TC001_AccountRegisterationPage*******
+17:07:24.760 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationPage - *******Finished TC001_AccountRegisterationPage*******
+17:07:32.052 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+17:07:34.132 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+17:07:34.856 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - *******Starting TC002_LoginPagePage*******
+17:07:35.534 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+17:07:36.515 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+17:07:37.108 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - Clicked on Myaccount link
+17:07:38.277 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - Clicked on Login link
+17:07:38.378 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - Providing Existing User details
+17:07:38.847 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - Clicked on Login link
+17:07:38.847 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - Providing Existing User details
+17:07:39.493 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - Clicked on Login link
+17:07:39.495 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - Providing Existing User details
+17:07:41.597 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - Clicked on Login button
+17:07:41.958 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - Clicked on Login button
+17:07:42.276 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - Clicked on Login button
+17:07:43.755 [TestNG-tests-2] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+17:07:43.982 [TestNG-tests-3] INFO  testCases.TC002_LoginPage - Validating expected My Account header
+17:07:44.358 [TestNG-tests-1] INFO  testCases.TC002_LoginPage - Validating expected My Account header
